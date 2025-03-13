@@ -14,4 +14,6 @@ As part of my training, I completed a project with the following guidelines
 
 ![Wireframe :](https://github.com/sadnxssdlm/Bakery-Site/blob/main/ChezSandyWF-FINAL.png)
 
-![Prewiew :](https://i.imgur.com/euuuEFA.png)
+![Prewiew PC :](https://i.imgur.com/euuuEFA.png)
+
+![Prewiew Phone :](https://i.imgur.com/MWQlONE.png)
