@@ -1,2 +1,11 @@
-# Bakery-Site
-My first web project for a fictitious bakery
+# Project Overview
+As part of my training, I completed a project with the following guidelines:
+
+- Requirements
+- Navigation bar
+- Main content section: Two rows of four images (desktop format)
+- Description section:
+- Title
+- Presentation of the website
+- Image of the business store front
+- Footer: Contact form
