@@ -1,7 +1,7 @@
 # Project Overview
-As part of my training, I completed a project with the following guidelines:
+As part of my training, I completed a project with the following guidelines
 
-- Requirements
+**Requirements**
 - Navigation bar
 - Main content section: Two rows of four images (desktop format)
 - Description section:
