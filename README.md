@@ -11,9 +11,10 @@ As part of my training, I completed a project with the following guidelines
 - Footer: Contact form
   
 
-
+## Wireframe
 ![Wireframe :](https://github.com/sadnxssdlm/Bakery-Site/blob/main/ChezSandyWF-FINAL.png)
 
+## Prewiew
 ![Prewiew PC :](https://i.imgur.com/euuuEFA.png)
 
 ![Prewiew Phone :](https://i.imgur.com/MWQlONE.png)
