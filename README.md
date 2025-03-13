@@ -9,3 +9,8 @@ As part of my training, I completed a project with the following guidelines:
 - Presentation of the website
 - Image of the business store front
 - Footer: Contact form
+
+
+![Wireframe :](https://github.com/sadnxssdlm/Bakery-Site/blob/main/ChezSandyWF-FINAL.png)
+
+![Prewiew :](https://i.imgur.com/euuuEFA.png)
